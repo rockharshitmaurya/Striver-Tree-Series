@@ -18,14 +18,14 @@ class PreorderTraversal{
         root.right.right=new Node(7);
         root.right.right.left=new Node(9);
         root.right.right.right=new Node(10);
-        inorder(root);
+        preorder(root);
     }
-    public static void inorder(Node root){
+    public static void preorder(Node root){
         if(root==null){
             return;
         }
         System.out.print(root.data+" ");
-        inorder(root.left);
-        inorder(root.right);
+        preorder(root.left);
+        preorder(root.right);
     }
 }
