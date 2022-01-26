@@ -1,3 +1,4 @@
+//https://www.codingninjas.com/codestudio/problems/time-to-burn-tree_630563
 import java.util.*;
 /**********************************************************	
 	
