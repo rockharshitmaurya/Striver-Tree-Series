@@ -1,0 +1,422 @@
+[33mcommit d8d7cf5f94066d898132f8cc25feac0be1677d2d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 0f52d28 3e78b2f
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Tue Feb 8 19:19:20 2022 +0530
+
+    Merge branch 'master' of https://github.com/rockharshitmaurya/Striver-Tree-Series
+
+[33mcommit 0f52d289a645f809f9a0fbc616661d30bdbe4c7e[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Tue Feb 8 19:19:14 2022 +0530
+
+    #moved
+
+[33mcommit 3e78b2fe0ef9bbe8a7f4ba213aef2a62c6151f18[m
+Author: Harshit Maurya <46915044+rockharshitmaurya@users.noreply.github.com>
+Date:   Tue Feb 8 19:16:45 2022 +0530
+
+    Create README.md
+
+[33mcommit 0b8438319557f86e5386f650c1744cc772f46d6c[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Mon Feb 7 22:28:23 2022 +0530
+
+    Largest BST In a Binary Tree
+
+[33mcommit 39449569c2bf25333c147023771a1c124c82dd5c[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Mon Feb 7 18:18:33 2022 +0530
+
+    Recover A Binary search Tree
+
+[33mcommit 9bd82c700b7aa28632a46907149a30308b8a7140[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Feb 5 20:10:01 2022 +0530
+
+    Two Sum In BST
+
+[33mcommit c1e4450869bf2893c408e17533fc4532c792f62a[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Feb 5 14:32:09 2022 +0530
+
+    BST Iterator.java
+
+[33mcommit dbdabcf2f807567b816bc23341863688c9d2b8ff[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Feb 5 14:30:30 2022 +0530
+
+    Inorder Successor in BST
+
+[33mcommit 02e3463c818bec77373fd5e96cc6e0d58d8f89d3[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Feb 5 14:27:51 2022 +0530
+
+    Construct Binary Search Tree from Preorder Traversal
+
+[33mcommit 3af67ec7a9fb9e3e6f5224948d9c7d7d04ca55f6[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Feb 5 14:25:20 2022 +0530
+
+    Check Valid BST or Not
+
+[33mcommit d42675cd14ecec37c91e622f86955c5709c4d17a[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Feb 5 14:21:58 2022 +0530
+
+    kth-Smallest Element in a Binary Tree
+
+[33mcommit d6c01a803e306b89d89c021c6d7eeda401dade44[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Feb 5 14:18:53 2022 +0530
+
+    Delete A Node From Binary Search Tree
+
+[33mcommit 1632750ec3794f850ecdcd9f5915ce94d8fcc7e1[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Fri Feb 4 15:55:42 2022 +0530
+
+    Delete A Node in Binary Search Tree
+
+[33mcommit 26613173e1014e9392c8d6c9168084fdd7365d9d[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Fri Feb 4 12:19:22 2022 +0530
+
+    Insert Into a Binary Search Tree Tree
+
+[33mcommit a715347ccedc0a578b435ebef2eff7bd79570ba3[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Thu Feb 3 19:31:25 2022 +0530
+
+    Find Floor Value in Binary Search Tree
+
+[33mcommit 9f3c729d6ba495c629a78b109f59429986e37a69[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Thu Feb 3 18:58:02 2022 +0530
+
+    Search In a Binary Search Tree
+
+[33mcommit c0a442848f42b31d012d22684a7004270a63859b[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Thu Feb 3 18:56:20 2022 +0530
+
+    Ceil in a Binary Tree
+
+[33mcommit bd323ec2235499179eaeafde0df08bda060674ca[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Thu Feb 3 18:54:29 2022 +0530
+
+    Flatten a Binary Tree
+
+[33mcommit 5924d4f1ce822b7326f1f290a5e53730392a4797[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Thu Feb 3 11:11:38 2022 +0530
+
+    All Nodes With Distance k
+
+[33mcommit 4018daab7b777abd63195913036f25d2ccb3a5f6[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Jan 29 00:58:16 2022 +0530
+
+    Morris Traversal of Given Binary Tree
+
+[33mcommit 9a78a30aca82a4d2c251d1de49f9303d1ebdda3c[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Fri Jan 28 19:15:30 2022 +0530
+
+    Serialize and Deserialize Binary Tree
+
+[33mcommit 461fe4a19f01d94326af09c383ede00834fcaa7f[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Fri Jan 28 12:51:53 2022 +0530
+
+    Unique Binary tree with Post order and Inorder
+
+[33mcommit 6287f36666009095c0922a83bb84cbd4d277416d[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Wed Jan 26 18:44:36 2022 +0530
+
+    Construct Binary Tree from Preorder and Inorder
+
+[33mcommit 77516f882647327ebce1d641093ac1f4e627100e[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Wed Jan 26 13:24:54 2022 +0530
+
+    Totle time take to burn binary tree
+
+[33mcommit 5c4d9d6ed260423a53c0e336dcb88a2c903d440f[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Wed Jan 26 13:23:26 2022 +0530
+
+    Count all the nodes of complete binary tree
+
+[33mcommit dd0fcc78184a9f0d75b19ad4d88e00fdc6bfbd46[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Wed Jan 26 13:22:16 2022 +0530
+
+    Count all the  nodes of Complete Binary Tree
+
+[33mcommit 616c17236ca1199bcf54c60d56d90b73d4664c00[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Wed Jan 26 11:03:51 2022 +0530
+
+    Time to Burn a Binary Tree
+
+[33mcommit 349ac1f17ee0b9303f6ed37bb1b108e72d17913f[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Tue Jan 25 15:50:23 2022 +0530
+
+    Find nodes from target node at k distance in Binary Tree
+
+[33mcommit e7088122e466660ba1c4cf602ac553029f448d9d[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Tue Jan 25 15:49:20 2022 +0530
+
+    Find All the Nodes with k distance in a binary tree
+
+[33mcommit 3bd22ba172b842fbe681f3865515087da6516fe8[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Mon Jan 24 17:33:42 2022 +0530
+
+    Children sum of binary tree
+
+[33mcommit 70bd0525b259b8a11f7bd0df98671ebb66ea0a8f[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Jan 22 19:53:23 2022 +0530
+
+    Maximum width of Binary Tree between two given nodes
+
+[33mcommit 4d257ef5ec09dcabe8385638bc8bd2e901572526[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Fri Jan 21 12:24:31 2022 +0530
+
+    Lowest Comment Ancestor of Binary Tree
+
+[33mcommit 60fe2a946839661f6193467a56fb75edb876195f[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 21:38:07 2022 +0530
+
+    Path from root to any given node
+
+[33mcommit 592a6726ef2f920ffd4b787d773964607b58659b[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 21:33:17 2022 +0530
+
+    Check mirror tree
+
+[33mcommit c84173ccb4c3fb6bcb6164a9ffcc1f22c947bd81[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 21:30:23 2022 +0530
+
+    Right View of Binary Tree
+
+[33mcommit 2533cac40fc2caf01b36c86bac58349f7ee77dea[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 21:29:05 2022 +0530
+
+    Left View of Binary Tree
+
+[33mcommit d06dbb69f197be43fa8be02bcbb15fabd5bcebac[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 21:28:44 2022 +0530
+
+    Left View Of Binary Yree
+
+[33mcommit 0226119ba02537ad3fc0d8884c3825933f1a3dce[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 21:26:23 2022 +0530
+
+    Bottem View of Binary Tree
+
+[33mcommit f5aefd0b55020c1496b72ab4f3725dfee943d9ef[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 21:23:27 2022 +0530
+
+    Top View of Binary Tree
+
+[33mcommit be62962a7945d6909c909a3fa5964bea1bf8aacb[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 20:27:25 2022 +0530
+
+    Print Root to Any Given Node
+
+[33mcommit f850d4b7f6d9fc9806075b06b097d323a5ab530f[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 20:07:40 2022 +0530
+
+    Check for Mirror Tree
+
+[33mcommit fa918179910061b88129c839891f401c98be0870[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 18:43:28 2022 +0530
+
+    Left View Of Binary Tree
+
+[33mcommit 571533c327f286a278828cd0f55a23068904ff2f[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 18:42:45 2022 +0530
+
+    Right View Of Binary Tree
+
+[33mcommit baac3a10443aed83fb6abaac212dee937f4d75a9[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 16 17:53:58 2022 +0530
+
+    Top View Of a Binary Tree
+
+[33mcommit 2ffd2be0a11584f493328c6e1b3a946f7100b1b9[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Fri Jan 14 23:11:34 2022 +0530
+
+    Bottem View of Tree
+
+[33mcommit a2c56f684fd7ea17fbaaa12d77524225b5819fd2[m
+Merge: b0bafd3 778361f
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Fri Jan 14 16:52:59 2022 +0530
+
+    Merge branch 'master' of https://github.com/rockharshitmaurya/Striver-Tree-Series
+
+[33mcommit b0bafd312735fd8145493aa3c834825d3019665c[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Fri Jan 14 16:52:08 2022 +0530
+
+    Vertical View Of Binary Tree
+
+[33mcommit 778361fa20d0bceed2cfd4ce1f81c7f2898ce4fb[m
+Author: Harshit Maurya <46915044+rockharshitmaurya@users.noreply.github.com>
+Date:   Thu Jan 13 00:09:17 2022 +0530
+
+    Boundary Traversal of a Binary Tree
+
+[33mcommit 36728bdd1a9e4587730415e3ba04820b80a06f76[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Wed Jan 12 13:56:02 2022 +0530
+
+    ZigZag Traversal of Tree
+
+[33mcommit 2bb159ae59ac87edeb970f92455f5195ad74d0e0[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Wed Jan 12 11:03:54 2022 +0530
+
+    Check 2 Trees are Identical or Not
+
+[33mcommit cc351be1a939ba44b2d14e8f7ddf7e0e5756a546[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Tue Jan 11 19:39:03 2022 +0530
+
+    Maximum path sum of a Binary Tree
+
+[33mcommit 9296d89d49f760bc9f9c4553e02433727813707e[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Tue Jan 11 11:18:57 2022 +0530
+
+    Diameter of Binary Tree
+
+[33mcommit 02f3b792ced0dd5ba8169b89dbd795b91b0a13e0[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Tue Jan 11 10:04:14 2022 +0530
+
+    Check a Binary Tree is Balanced or Not
+
+[33mcommit b107fe15bb9751f4120433065de5ca7ae479756f[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Mon Jan 10 17:15:22 2022 +0530
+
+    Maximum Depth Of Binary Tree
+
+[33mcommit a150713e27b52504a7b6fffc65437427d2bcd373[m
+Merge: 4c6cfe5 140ad6c
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Mon Jan 10 17:12:39 2022 +0530
+
+    Merge branch 'master' of https://github.com/rockharshitmaurya/Striver-Tree-Series
+
+[33mcommit 4c6cfe5b51cdbfc41564f0b3a1faf37f48073f45[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Mon Jan 10 17:12:34 2022 +0530
+
+    Maximum Depth Of Binary Tree
+
+[33mcommit 140ad6c211936260a8a401d580d0e8dcc1807e89[m
+Author: Harshit Maurya <46915044+rockharshitmaurya@users.noreply.github.com>
+Date:   Mon Jan 10 16:17:43 2022 +0530
+
+    Iterative PreOrder , InOrder And PostOrder Traversals in One
+
+[33mcommit 86f677245ad3d55e4b6333b4659c776b77fc4d55[m
+Author: Harshit Maurya <46915044+rockharshitmaurya@users.noreply.github.com>
+Date:   Mon Jan 10 16:16:26 2022 +0530
+
+    Update AllTraversalsInOne.java
+
+[33mcommit ca649f3f833ff201534f2bb820e0a41af0f2b3d6[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Mon Jan 10 16:15:20 2022 +0530
+
+    Itrative PreOrder , InOrder And PostOrder Traversals in One
+
+[33mcommit c1efa0dadf102b19353b46723df9259f09906ed4[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Mon Jan 10 11:27:32 2022 +0530
+
+    Iterative Post Order using 1 Stack
+
+[33mcommit df42311622611abc15f7a6a8b41cd3bb8e87e75c[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 9 23:19:03 2022 +0530
+
+    Iterative Post Order of Tree Using Two Stacks
+
+[33mcommit 987fd545f9c63f72fb8276759f219c5c5cf7f944[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 9 19:01:59 2022 +0530
+
+    Itrative Inorder traversal of Tree
+
+[33mcommit fc8a74ac03daffa39d9c9c8d0157eb10a99a79e8[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sun Jan 9 12:44:46 2022 +0530
+
+    Iterative preeorder travsersal of Tree
+
+[33mcommit 2ecd29a9bb215442da48d84fdddb8f500ee0b56e[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Jan 8 21:11:08 2022 +0530
+
+    Levelorder Traversal of Tree
+
+[33mcommit 34fdfd43d19f0687b11246e43c1e7255bc00cabd[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Jan 8 16:39:44 2022 +0530
+
+    Post order traversal of Tree
+
+[33mcommit a9a71a02be7a46b378b1bb9c3065797f2ab1dc9c[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Jan 8 16:37:20 2022 +0530
+
+    Preorder Traversal of Tree
+
+[33mcommit 57e6d01c528514175277db48f342f13fff0b4ba3[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Jan 8 16:35:47 2022 +0530
+
+    Preorder Traversal of Tree
+
+[33mcommit 5db8e5c627f0827560b6e2cc674995c6a97ed23c[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Jan 8 15:15:37 2022 +0530
+
+    Class file deleted
+
+[33mcommit 9b12ba35b2494f8a134d35f332eca12173d6128a[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Jan 8 15:13:52 2022 +0530
+
+    Inorder Traversal of Tree
+
+[33mcommit d5888b078f46a4ee20983cc2a88d75bd690adbfd[m
+Author: Harshit Maurya <rockharshitmaurya@gmail.com>
+Date:   Sat Jan 8 15:02:25 2022 +0530
+
+    representation of binary tree
