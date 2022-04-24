@@ -11,7 +11,7 @@ This Repository contains all the Efficient algorithm's Code As well as the Probl
 - Practising on <a href="https://www.codeforces.com/profile/rockharshitmaurya/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/harshitmaurya/">LinkedIn</a> 😇
 
-
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=HarshitMaurya&theme=nord)
 
 ## Basic Structure/Examples
 
